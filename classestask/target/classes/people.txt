@@ -8,3 +8,31 @@ Lecturer,Dr. Brown,40,male,Biology,20
 Lecturer,Dr. Davis,55,female,Engineering,40
 Student,Daniel,20,male,Economics,86
 Student,Olivia,22,female,Literature,90
+Student,Emily,21,female,History,87
+Student,Michael,23,male,Philosophy,89
+Student,Jessica,22,female,Art,91
+Student,David,24,male,Music,85
+Lecturer,Dr. White,60,male,Mathematics,30
+Lecturer,Dr. Green,48,female,Physics,25
+Lecturer,Dr. Black,52,male,Chemistry,28
+Lecturer,Dr. Blue,47,female,Biology,22
+Student,James,21,male,Computer Science,88
+Student,Laura,22,female,Engineering,90
+Student,Robert,23,male,Economics,87
+Student,Sarah,24,female,Political Science,92
+Lecturer,Dr. Grey,55,male,History,35
+Lecturer,Dr. Violet,50,female,Philosophy,27
+Lecturer,Dr. Orange,45,male,Art,20
+Lecturer,Dr. Pink,53,female,Music,32
+Student,William,21,male,Mathematics,89
+Student,Elizabeth,22,female,Physics,91
+Student,Christopher,23,male,Chemistry,88
+Student,Amanda,24,female,Biology,90
+Lecturer,Dr. Brown,60,male,Computer Science,40
+Lecturer,Dr. Black,58,female,Engineering,38
+Lecturer,Dr. White,54,male,Economics,36
+Lecturer,Dr. Green,56,female,Political Science,34
+Student,Matthew,21,male,History,86
+Student,Jennifer,22,female,Philosophy,89
+Student,Joshua,23,male,Art,87
+Student,Ashley,24,female,Music,92

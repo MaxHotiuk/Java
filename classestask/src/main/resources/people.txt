@@ -1,0 +1,10 @@
+Student,Ivan,20,male,FPMI,90
+Student,Anna,22,female,FPMI,85
+Student,John,21,male,CS,88
+Student,Maria,23,female,Math,92
+Lecturer,Dr. Smith,45,male,Physics,5
+Lecturer,Dr. Johnson,50,female,Chemistry,5
+Lecturer,Dr. Brown,40,male,Biology,20
+Lecturer,Dr. Davis,55,female,Engineering,40
+Student,Daniel,20,male,Economics,86
+Student,Olivia,22,female,Literature,90

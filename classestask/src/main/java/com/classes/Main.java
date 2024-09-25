@@ -8,8 +8,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        Human[] people = new Human[10];
-
+        Human[] people = new Human[38];
         try (BufferedReader br = new BufferedReader(new FileReader("/Users/maxhotiuk/Desktop/5sem/Java/classestask/src/main/resources/people.txt"))) {
             String line;
             int index = 0;

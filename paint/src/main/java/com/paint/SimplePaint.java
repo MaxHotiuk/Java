@@ -216,6 +216,12 @@ public class SimplePaint extends JFrame {
             JFileChooser fileChooser = new JFileChooser();
             if (fileChooser.showSaveDialog(this) == JFileChooser.APPROVE_OPTION) {
                 File file = fileChooser.getSelectedFile();
+        
+                // Check if the file name ends with .png; if not, add it
+                if (!file.getName().toLowerCase().endsWith(".png")) {
+                    file = new File(file.getAbsolutePath() + ".png");
+                }
+        
                 try {
                     ImageIO.write(canvas, "png", file);
                     statusBar.setText("File saved: " + file.getName());
@@ -224,6 +230,7 @@ public class SimplePaint extends JFrame {
                 }
             }
         });
+        
 
         resizeItem.addActionListener(e -> {
             String widthInput = JOptionPane.showInputDialog(this, "Enter new width:", canvas.getWidth());
